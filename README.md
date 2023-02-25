@@ -1,2 +1,2 @@
-# Nama: Sulas Sri
-# Universitas: Politeknik Negeri Semarang
+Nama: Sulas Sri
+Universitas: Politeknik Negeri Semarang
